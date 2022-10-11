@@ -1,0 +1,2 @@
+# blhc disagrees with lintian
+libpadwalker-perl: hardening-no-fortify-functions usr/lib/*/auto/PadWalker/PadWalker.so
